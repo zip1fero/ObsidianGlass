@@ -48,6 +48,15 @@ https://raw.githubusercontent.com/zip1fero/ObsidianGlass/main/ObsidianGlass.them
 
 **Local:** put the file in the Vencord themes folder (**Themes → Open Themes Folder**) and enable it.
 
+## Custom title
+
+The text next to the back/forward arrows at the top of Discord can be anything you like. Open `ObsidianGlass.theme.css` and change the first value in the file:
+
+```css
+--titlebar-text: "Obsidian Glass";
+```
+
+For example `--titlebar-text: "my server";`. Keep the quotes.
 ## Notes
 
 - Blur needs a wallpaper or something behind the panels to look its best. With no wallpaper, the glass sits on Discord's dark base.
