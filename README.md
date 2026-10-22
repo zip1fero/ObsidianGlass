@@ -67,6 +67,10 @@ For example `--titlebar-text: "my server";`. Keep the quotes.
 
 [NeonGlass](https://github.com/zip1fero/NeonGlass) · [AuroraGlass](https://github.com/zip1fero/AuroraGlass)
 
+## Support
+
+Something broken after a Discord update? Open an [issue](https://github.com/zip1fero/ObsidianGlass/issues).
+
 ## Author
 
 Made by **sakis** ([zip1fero](https://github.com/zip1fero)).
